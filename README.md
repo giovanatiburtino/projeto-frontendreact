@@ -4,7 +4,7 @@ O projeto se trata de um e-commerce de itens espaciais com as seguintes linhas d
 
 - Brinquedos e produtos infantis temáticos;
 
-## Descrição do Projeto
+## 🚀 Descrição do Projeto
 
 Esse é um projeto de introdução aos fundamentos do React. O projeto é composto pela seguinte estrutura de React:
 
@@ -45,10 +45,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - React Icons
 - Styled-components
 
-#### Demonstração
+#### 💻 Demonstração
 
 [Link de Demonstração](https://spaceland-toys.surge.sh/)
 
-##### Pessoas Autoras
+##### 👩‍💻 Pessoas Autoras
 
 [Linkedin](https://www.linkedin.com/in/giovana-ferreira-tiburtino-475486216/)
