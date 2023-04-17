@@ -67,9 +67,9 @@ Exemplo de estruturação de **UM** produto (Lembrem-se que vocês terão uma li
 
 ### Lista de Requisitos
 - Home (Lista de Produtos)
-    - [ ]  O usuário deve ser capaz de visualizar uma lista de produtos
-    - [ ]  O usuário deve ser capaz de visualizar os dados do produto (nome, preço e imagem)
-    - [ ]  O usuário deve ser capaz de adicionar um produto no carrinho
+    - [X]  O usuário deve ser capaz de visualizar uma lista de produtos
+    - [X]  O usuário deve ser capaz de visualizar os dados do produto (nome, preço e imagem)
+    - [X]  O usuário deve ser capaz de adicionar um produto no carrinho
 - Carrinho
     - [ ]  O usuário deve ser capaz de visualizar os produtos adicionados
     - [ ]  O usuário deve ser capaz de visualizar a quantidade correta de cada produto
